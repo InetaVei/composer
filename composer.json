@@ -1,0 +1,11 @@
+{
+    "name": "ineta/composer",
+    "description": "This is an awesome project",
+    "require": {
+        "doctrine/orm": "^2.8"
+    },
+
+    "autoload": {
+        "files": ["src/Product.php"]
+        }       
+}
